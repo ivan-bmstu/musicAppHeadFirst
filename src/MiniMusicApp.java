@@ -11,9 +11,8 @@ public class MiniMusicApp {
             miniApp.play(instrument, note);
         }
         miniApp = null;
-        // sss
-        // aaa
     }
+    
 
     public void play(int instrument, int note) {
         try {
