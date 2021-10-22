@@ -12,6 +12,7 @@ public class MiniMusicApp {
         }
         miniApp = null;
         // sss
+        // aaa
     }
 
     public void play(int instrument, int note) {
